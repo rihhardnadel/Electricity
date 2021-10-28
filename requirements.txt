@@ -1,0 +1,7 @@
+plotly
+pandas
+json
+flask
+datetime
+requests
+dateutil
